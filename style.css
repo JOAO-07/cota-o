@@ -1,0 +1,10 @@
+.container{
+    font-size: 25px;
+    width: 1200px;
+    height: 350px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.buttons{
+    font-size: 70px;
+}
